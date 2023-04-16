@@ -242,7 +242,7 @@ def processType(type:str, outFile, inFile):
         with open(inFile, newline='') as csvfile:
             csvInput = csv.DictReader(csvfile)
             for row in csvInput:
-                (recordtoWrite, dictFolders) = makeOutputRecord(row, 'armor', dictFolders)
+                (recordtoWrite, dictFolders) = makeOutputRecord(row, type, dictFolders)
                 dbFile.write(json.dumps(recordtoWrite)+"\n")
         # output the folder lines
         for dir in dictFolders:
