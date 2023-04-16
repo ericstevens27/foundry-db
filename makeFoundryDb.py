@@ -237,16 +237,24 @@ def makeOutputRecord(csvData:dict, type:str, folders:dict)->dict:
 
 def processType(type:str, outFile, inFile):
     dictFolders = {}
+    dbOutput = []
     print(f"Start processing {type} file {inFile.name}")
+    with open(inFile, newline='') as csvfile:
+        csvInput = csv.DictReader(csvfile)
+        for row in csvInput:
+            (recordtoWrite, dictFolders) = makeOutputRecord(row, type, dictFolders)
+            dbOutput.append(json.dumps(recordtoWrite))
+    # output the folder lines
+    for dir in dictFolders:
+        dbOutput.append(json.dumps(dictFolders[dir]))
+    firstLine = True
     with open(outFile, 'w') as dbFile:
-        with open(inFile, newline='') as csvfile:
-            csvInput = csv.DictReader(csvfile)
-            for row in csvInput:
-                (recordtoWrite, dictFolders) = makeOutputRecord(row, type, dictFolders)
-                dbFile.write(json.dumps(recordtoWrite)+"\n")
-        # output the folder lines
-        for dir in dictFolders:
-            dbFile.write(json.dumps(dictFolders[dir])+"\n")
+        for rec in dbOutput:
+            if firstLine:
+                dbFile.write(rec)
+                firstLine = False
+            else:
+                dbFile.write("\n"+rec)
     print(f"Complete processing {type} file {inFile.name}")
     return True
 
