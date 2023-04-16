@@ -235,6 +235,21 @@ def makeOutputRecord(csvData:dict, type:str, folders:dict)->dict:
             print(f"{type} type not yet supported")
     return (outputRecord, folders)
 
+def processType(type:str, outFile, inFile):
+    dictFolders = {}
+    print(f"Start processing {type} file {inFile.name}")
+    with open(outFile, 'w') as dbFile:
+        with open(inFile, newline='') as csvfile:
+            csvInput = csv.DictReader(csvfile)
+            for row in csvInput:
+                (recordtoWrite, dictFolders) = makeOutputRecord(row, 'armor', dictFolders)
+                dbFile.write(json.dumps(recordtoWrite)+"\n")
+        # output the folder lines
+        for dir in dictFolders:
+            dbFile.write(json.dumps(dictFolders[dir])+"\n")
+    print(f"Complete processing {type} file {inFile.name}")
+    return True
+
 def main ():
     inputFolder = "input"
     outputFolder = "output"
@@ -248,34 +263,13 @@ def main ():
 
     inputPath = Path('./'+inputFolder)
     listInputFiles = list(inputPath.glob('*'+inputSuffix))
-    dictFolders = {}
     for f in listInputFiles:
         if f.name == armorFile+inputSuffix:
             # process as armor
-            print(f"Start processing armor file {f.name}")
-            with open(Path(outputFolder, foundryPrefix+armorFile+outputSuffix), 'w') as dbFile:
-                with open(f, newline='') as csvfile:
-                    csvInput = csv.DictReader(csvfile)
-                    for row in csvInput:
-                        (recordtoWrite, dictFolders) = makeOutputRecord(row, 'armor', dictFolders)
-                        dbFile.write(json.dumps(recordtoWrite)+"\n")
-                # output the folder lines
-                for dir in dictFolders:
-                    dbFile.write(json.dumps(dictFolders[dir])+"\n")
-            print(f"Complete processing armor file {f.name}")
+            processType('armor', Path(outputFolder, foundryPrefix+armorFile+outputSuffix), f)
         if f.name == weaponFile+inputSuffix:
             # process as wepon
-            print(f"Start processing weapon file {f.name}")
-            with open(Path(outputFolder, foundryPrefix+weaponFile+outputSuffix), 'w') as dbFile:
-                with open(f, newline='') as csvfile:
-                    csvInput = csv.DictReader(csvfile)
-                    for row in csvInput:
-                        (recordtoWrite, dictFolders) = makeOutputRecord(row, 'weapon', dictFolders)
-                        dbFile.write(json.dumps(recordtoWrite)+"\n")
-                # output the folder lines
-                for dir in dictFolders:
-                    dbFile.write(json.dumps(dictFolders[dir])+"\n")
-            print(f"Complete processing weapon file {f.name}")
+            processType('weapon', Path(outputFolder, foundryPrefix+weaponFile+outputSuffix), f)
         if f.name == itemFile+inputSuffix:
             # process as item
             print(f"Start processing item file {f.name}")
