@@ -3,7 +3,7 @@ import json
 def extractIcon(l:str)->dict:
     # -a----        2023-04-16   5:40 PM           1763 gauss-pistol.svg
     lineOut = {}
-    indexLastSpace = l.rindex(' ')
+    indexLastSpace = l.trim().rindex(' ')
     imgName = l[indexLastSpace:]
     lineOut['img'] = imgName
     rawName = imgName[:-4]
@@ -21,8 +21,8 @@ def main ():
     iconFileName = 'icons.txt'
     iconOutput = {"icons": []}
     iconOutputfile = 'icon.json'
-    with open(iconFileName, "r") as iconFD:
-        line = iconFD.read()
+    with open(iconFileName, "r", encoding="utf-16") as iconFD:
+        line = iconFD.readline()
         iconOutput['icons'].append(extractIcon(line))
     with open(iconOutputfile, 'w') as iconOutputFD:
         iconOutputFD.write(json.dump(iconOutput, ensure_ascii=True, indent=4))
