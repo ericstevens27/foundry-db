@@ -1,0 +1,3466 @@
+{
+    "icons": [
+        {
+            "img": "teleport-self.svg",
+            "tags": [
+                "teleport",
+                "self"
+            ]
+        },
+        {
+            "img": "gambling.svg",
+            "tags": [
+                "gambling"
+            ]
+        },
+        {
+            "img": "portable-fusion-generator.svg",
+            "tags": [
+                "portable",
+                "fusion",
+                "generator"
+            ]
+        },
+        {
+            "img": "clairvoyance.svg",
+            "tags": [
+                "clairvoyance"
+            ]
+        },
+        {
+            "img": "sextant.svg",
+            "tags": [
+                "sextant"
+            ]
+        },
+        {
+            "img": "combat-environment-suit.svg",
+            "tags": [
+                "combat",
+                "environment",
+                "suit"
+            ]
+        },
+        {
+            "img": "secret-door.svg",
+            "tags": [
+                "secret",
+                "door"
+            ]
+        },
+        {
+            "img": "aircraft-rotor.svg",
+            "tags": [
+                "aircraft",
+                "rotor"
+            ]
+        },
+        {
+            "img": "robot-helmet.svg",
+            "tags": [
+                "robot",
+                "helmet"
+            ]
+        },
+        {
+            "img": "alien-bug.svg",
+            "tags": [
+                "alien",
+                "bug"
+            ]
+        },
+        {
+            "img": "giant.svg",
+            "tags": [
+                "giant"
+            ]
+        },
+        {
+            "img": "charging.svg",
+            "tags": [
+                "charging"
+            ]
+        },
+        {
+            "img": "artificial-gill.svg",
+            "tags": [
+                "artificial",
+                "gill"
+            ]
+        },
+        {
+            "img": "axe.svg",
+            "tags": [
+                "axe"
+            ]
+        },
+        {
+            "img": "omnicomm.svg",
+            "tags": [
+                "omnicomm"
+            ]
+        },
+        {
+            "img": "smoking-finger.svg",
+            "tags": [
+                "smoking",
+                "finger"
+            ]
+        },
+        {
+            "img": "crossed-claws.svg",
+            "tags": [
+                "crossed",
+                "claws"
+            ]
+        },
+        {
+            "img": "star-formation.svg",
+            "tags": [
+                "star",
+                "formation"
+            ]
+        },
+        {
+            "img": "uncertainty.svg",
+            "tags": [
+                "uncertainty"
+            ]
+        },
+        {
+            "img": "frog-foot.svg",
+            "tags": [
+                "frog",
+                "foot"
+            ]
+        },
+        {
+            "img": "light-machinegun.svg",
+            "tags": [
+                "light",
+                "machinegun"
+            ]
+        },
+        {
+            "img": "easel.svg",
+            "tags": [
+                "easel"
+            ]
+        },
+        {
+            "img": "syringe.svg",
+            "tags": [
+                "syringe"
+            ]
+        },
+        {
+            "img": "sleeping-bag.svg",
+            "tags": [
+                "sleeping",
+                "bag"
+            ]
+        },
+        {
+            "img": "squib.svg",
+            "tags": [
+                "squib"
+            ]
+        },
+        {
+            "img": "embraced-energy.svg",
+            "tags": [
+                "embraced",
+                "energy"
+            ]
+        },
+        {
+            "img": "cybernetic-eye.svg",
+            "tags": [
+                "cybernetic",
+                "eye"
+            ]
+        },
+        {
+            "img": "grab.svg",
+            "tags": [
+                "grab"
+            ]
+        },
+        {
+            "img": "bright-explosion.svg",
+            "tags": [
+                "bright",
+                "explosion"
+            ]
+        },
+        {
+            "img": "gun-stock.svg",
+            "tags": [
+                "gun",
+                "stock"
+            ]
+        },
+        {
+            "img": "hand.svg",
+            "tags": [
+                "hand"
+            ]
+        },
+        {
+            "img": "grass.svg",
+            "tags": [
+                "grass"
+            ]
+        },
+        {
+            "img": "crosshair.svg",
+            "tags": [
+                "crosshair"
+            ]
+        },
+        {
+            "img": "gauss-pistol.svg",
+            "tags": [
+                "gauss",
+                "pistol"
+            ]
+        },
+        {
+            "img": "assault.svg",
+            "tags": [
+                "assault"
+            ]
+        },
+        {
+            "img": "pencil.svg",
+            "tags": [
+                "pencil"
+            ]
+        },
+        {
+            "img": "dragon-breath.svg",
+            "tags": [
+                "dragon",
+                "breath"
+            ]
+        },
+        {
+            "img": "Technical.svg",
+            "tags": [
+                "Technical"
+            ]
+        },
+        {
+            "img": "stimshot-B.svg",
+            "tags": [
+                "stimshot",
+                "B"
+            ]
+        },
+        {
+            "img": "antibody.svg",
+            "tags": [
+                "antibody"
+            ]
+        },
+        {
+            "img": "brain-freeze.svg",
+            "tags": [
+                "brain",
+                "freeze"
+            ]
+        },
+        {
+            "img": "vortex.svg",
+            "tags": [
+                "vortex"
+            ]
+        },
+        {
+            "img": "medkit.svg",
+            "tags": [
+                "medkit"
+            ]
+        },
+        {
+            "img": "test-tubes.svg",
+            "tags": [
+                "test",
+                "tubes"
+            ]
+        },
+        {
+            "img": "mirror-mirror.svg",
+            "tags": [
+                "mirror",
+                "mirror"
+            ]
+        },
+        {
+            "img": "bugle-call.svg",
+            "tags": [
+                "bugle",
+                "call"
+            ]
+        },
+        {
+            "img": "emp.svg",
+            "tags": [
+                "emp"
+            ]
+        },
+        {
+            "img": "security-card.svg",
+            "tags": [
+                "security",
+                "card"
+            ]
+        },
+        {
+            "img": "jungle.svg",
+            "tags": [
+                "jungle"
+            ]
+        },
+        {
+            "img": "reflec.svg",
+            "tags": [
+                "reflec"
+            ]
+        },
+        {
+            "img": "persuade.svg",
+            "tags": [
+                "persuade"
+            ]
+        },
+        {
+            "img": "emotion.svg",
+            "tags": [
+                "emotion"
+            ]
+        },
+        {
+            "img": "bell-shield.svg",
+            "tags": [
+                "bell",
+                "shield"
+            ]
+        },
+        {
+            "img": "radiation-resistance.svg",
+            "tags": [
+                "radiation",
+                "resistance"
+            ]
+        },
+        {
+            "img": "deception.svg",
+            "tags": [
+                "deception"
+            ]
+        },
+        {
+            "img": "thruster-pack.svg",
+            "tags": [
+                "thruster",
+                "pack"
+            ]
+        },
+        {
+            "img": "bayonet.svg",
+            "tags": [
+                "bayonet"
+            ]
+        },
+        {
+            "img": "laser-pistol.svg",
+            "tags": [
+                "laser",
+                "pistol"
+            ]
+        },
+        {
+            "img": "watercraft-motorboats.svg",
+            "tags": [
+                "watercraft",
+                "motorboats"
+            ]
+        },
+        {
+            "img": "defibrilate.svg",
+            "tags": [
+                "defibrilate"
+            ]
+        },
+        {
+            "img": "watercraft-sailing-ships.svg",
+            "tags": [
+                "watercraft",
+                "sailing",
+                "ships"
+            ]
+        },
+        {
+            "img": "broadsword.svg",
+            "tags": [
+                "broadsword"
+            ]
+        },
+        {
+            "img": "stealth.svg",
+            "tags": [
+                "stealth"
+            ]
+        },
+        {
+            "img": "vibrating-ball.svg",
+            "tags": [
+                "vibrating",
+                "ball"
+            ]
+        },
+        {
+            "img": "fusion-thrower.svg",
+            "tags": [
+                "fusion",
+                "thrower"
+            ]
+        },
+        {
+            "img": "watercraft-ocean-ships.svg",
+            "tags": [
+                "watercraft",
+                "ocean",
+                "ships"
+            ]
+        },
+        {
+            "img": "regen-tank.svg",
+            "tags": [
+                "regen",
+                "tank"
+            ]
+        },
+        {
+            "img": "shop.svg",
+            "tags": [
+                "shop"
+            ]
+        },
+        {
+            "img": "art-write.svg",
+            "tags": [
+                "art",
+                "write"
+            ]
+        },
+        {
+            "img": "aerosol.svg",
+            "tags": [
+                "aerosol"
+            ]
+        },
+        {
+            "img": "cold-weather-clothing.svg",
+            "tags": [
+                "cold",
+                "weather",
+                "clothing"
+            ]
+        },
+        {
+            "img": "whirlwind.svg",
+            "tags": [
+                "whirlwind"
+            ]
+        },
+        {
+            "img": "progression.svg",
+            "tags": [
+                "progression"
+            ]
+        },
+        {
+            "img": "meal.svg",
+            "tags": [
+                "meal"
+            ]
+        },
+        {
+            "img": "gun-combat-shotguns.svg",
+            "tags": [
+                "gun",
+                "combat",
+                "shotguns"
+            ]
+        },
+        {
+            "img": "ninja-armor.svg",
+            "tags": [
+                "ninja",
+                "armor"
+            ]
+        },
+        {
+            "img": "medical-drip.svg",
+            "tags": [
+                "medical",
+                "drip"
+            ]
+        },
+        {
+            "img": "suggestion.svg",
+            "tags": [
+                "suggestion"
+            ]
+        },
+        {
+            "img": "subdermal-armor.svg",
+            "tags": [
+                "subdermal",
+                "armor"
+            ]
+        },
+        {
+            "img": "human-target.svg",
+            "tags": [
+                "human",
+                "target"
+            ]
+        },
+        {
+            "img": "asteroid-A.svg",
+            "tags": [
+                "asteroid",
+                "A"
+            ]
+        },
+        {
+            "img": "breather.svg",
+            "tags": [
+                "breather"
+            ]
+        },
+        {
+            "img": "panacea.svg",
+            "tags": [
+                "panacea"
+            ]
+        },
+        {
+            "img": "StarportA.svg",
+            "tags": [
+                "StarportA"
+            ]
+        },
+        {
+            "img": "vomiting.svg",
+            "tags": [
+                "vomiting"
+            ]
+        },
+        {
+            "img": "wireframe-globe.svg",
+            "tags": [
+                "wireframe",
+                "globe"
+            ]
+        },
+        {
+            "img": "tent.svg",
+            "tags": [
+                "tent"
+            ]
+        },
+        {
+            "img": "lock-spy.svg",
+            "tags": [
+                "lock",
+                "spy"
+            ]
+        },
+        {
+            "img": "StarportF.svg",
+            "tags": [
+                "StarportF"
+            ]
+        },
+        {
+            "img": "cudgel.svg",
+            "tags": [
+                "cudgel"
+            ]
+        },
+        {
+            "img": "surrounded-shield.svg",
+            "tags": [
+                "surrounded",
+                "shield"
+            ]
+        },
+        {
+            "img": "static-guard.svg",
+            "tags": [
+                "static",
+                "guard"
+            ]
+        },
+        {
+            "img": "gun-combat-slug-rifle.svg",
+            "tags": [
+                "gun",
+                "combat",
+                "slug",
+                "rifle"
+            ]
+        },
+        {
+            "img": "gunner-turrets.svg",
+            "tags": [
+                "gunner",
+                "turrets"
+            ]
+        },
+        {
+            "img": "animals-farming.svg",
+            "tags": [
+                "animals",
+                "farming"
+            ]
+        },
+        {
+            "img": "light-sabers.svg",
+            "tags": [
+                "light",
+                "sabers"
+            ]
+        },
+        {
+            "img": "spell-book.svg",
+            "tags": [
+                "spell",
+                "book"
+            ]
+        },
+        {
+            "img": "spray.svg",
+            "tags": [
+                "spray"
+            ]
+        },
+        {
+            "img": "chainsaw.svg",
+            "tags": [
+                "chainsaw"
+            ]
+        },
+        {
+            "img": "walkie-talkie.svg",
+            "tags": [
+                "walkie",
+                "talkie"
+            ]
+        },
+        {
+            "img": "StarportB.svg",
+            "tags": [
+                "StarportB"
+            ]
+        },
+        {
+            "img": "astrogation.svg",
+            "tags": [
+                "astrogation"
+            ]
+        },
+        {
+            "img": "scuba-tanks.svg",
+            "tags": [
+                "scuba",
+                "tanks"
+            ]
+        },
+        {
+            "img": "heavy-subdermal-armor.svg",
+            "tags": [
+                "heavy",
+                "subdermal",
+                "armor"
+            ]
+        },
+        {
+            "img": "science-space-sciences.svg",
+            "tags": [
+                "science",
+                "space",
+                "sciences"
+            ]
+        },
+        {
+            "img": "tinker.svg",
+            "tags": [
+                "tinker"
+            ]
+        },
+        {
+            "img": "cavalry.svg",
+            "tags": [
+                "cavalry"
+            ]
+        },
+        {
+            "img": "recon.svg",
+            "tags": [
+                "recon"
+            ]
+        },
+        {
+            "img": "passport.svg",
+            "tags": [
+                "passport"
+            ]
+        },
+        {
+            "img": "handcuffs.svg",
+            "tags": [
+                "handcuffs"
+            ]
+        },
+        {
+            "img": "crossbow.svg",
+            "tags": [
+                "crossbow"
+            ]
+        },
+        {
+            "img": "bionic-legs.svg",
+            "tags": [
+                "bionic",
+                "legs"
+            ]
+        },
+        {
+            "img": "water-canteen.svg",
+            "tags": [
+                "water",
+                "canteen"
+            ]
+        },
+        {
+            "img": "backstab.svg",
+            "tags": [
+                "backstab"
+            ]
+        },
+        {
+            "img": "probe.svg",
+            "tags": [
+                "probe"
+            ]
+        },
+        {
+            "img": "long-range-communicator.svg",
+            "tags": [
+                "long",
+                "range",
+                "communicator"
+            ]
+        },
+        {
+            "img": "cyborg-face.svg",
+            "tags": [
+                "cyborg",
+                "face"
+            ]
+        },
+        {
+            "img": "bow.svg",
+            "tags": [
+                "bow"
+            ]
+        },
+        {
+            "img": "telepathy.svg",
+            "tags": [
+                "telepathy"
+            ]
+        },
+        {
+            "img": "StarportX.svg",
+            "tags": [
+                "StarportX"
+            ]
+        },
+        {
+            "img": "psi-healing.svg",
+            "tags": [
+                "psi",
+                "healing"
+            ]
+        },
+        {
+            "img": "asteroid-B.svg",
+            "tags": [
+                "asteroid",
+                "B"
+            ]
+        },
+        {
+            "img": "field-rations.svg",
+            "tags": [
+                "field",
+                "rations"
+            ]
+        },
+        {
+            "img": "melee-combat-natural-weapons.svg",
+            "tags": [
+                "melee",
+                "combat",
+                "natural",
+                "weapons"
+            ]
+        },
+        {
+            "img": "torch.svg",
+            "tags": [
+                "torch"
+            ]
+        },
+        {
+            "img": "anti-radiation.svg",
+            "tags": [
+                "anti",
+                "radiation"
+            ]
+        },
+        {
+            "img": "body-pistol.svg",
+            "tags": [
+                "body",
+                "pistol"
+            ]
+        },
+        {
+            "img": "nite-shot.svg",
+            "tags": [
+                "nite",
+                "shot"
+            ]
+        },
+        {
+            "img": "shambling-zombie.svg",
+            "tags": [
+                "shambling",
+                "zombie"
+            ]
+        },
+        {
+            "img": "martini.svg",
+            "tags": [
+                "martini"
+            ]
+        },
+        {
+            "img": "horned-skull.svg",
+            "tags": [
+                "horned",
+                "skull"
+            ]
+        },
+        {
+            "img": "rally-the-troops.svg",
+            "tags": [
+                "rally",
+                "the",
+                "troops"
+            ]
+        },
+        {
+            "img": "binoculars.svg",
+            "tags": [
+                "binoculars"
+            ]
+        },
+        {
+            "img": "medic.svg",
+            "tags": [
+                "medic"
+            ]
+        },
+        {
+            "img": "lift-100-kg.svg",
+            "tags": [
+                "lift",
+                "100",
+                "kg"
+            ]
+        },
+        {
+            "img": "robe.svg",
+            "tags": [
+                "robe"
+            ]
+        },
+        {
+            "img": "heavy-teleport.svg",
+            "tags": [
+                "heavy",
+                "teleport"
+            ]
+        },
+        {
+            "img": "cowboy-holster.svg",
+            "tags": [
+                "cowboy",
+                "holster"
+            ]
+        },
+        {
+            "img": "augmented-joints.svg",
+            "tags": [
+                "augmented",
+                "joints"
+            ]
+        },
+        {
+            "img": "science-planetology.svg",
+            "tags": [
+                "science",
+                "planetology"
+            ]
+        },
+        {
+            "img": "shouting.svg",
+            "tags": [
+                "shouting"
+            ]
+        },
+        {
+            "img": "golden-revolver.svg",
+            "tags": [
+                "golden",
+                "revolver"
+            ]
+        },
+        {
+            "img": "blade.svg",
+            "tags": [
+                "blade"
+            ]
+        },
+        {
+            "img": "hazard-sign.svg",
+            "tags": [
+                "hazard",
+                "sign"
+            ]
+        },
+        {
+            "img": "Stimshot-A.svg",
+            "tags": [
+                "Stimshot",
+                "A"
+            ]
+        },
+        {
+            "img": "default_robot.svg",
+            "tags": [
+                "default",
+                "robot"
+            ]
+        },
+        {
+            "img": "bionic-arms.svg",
+            "tags": [
+                "bionic",
+                "arms"
+            ]
+        },
+        {
+            "img": "Combat-armor.svg",
+            "tags": [
+                "Combat",
+                "armor"
+            ]
+        },
+        {
+            "img": "teleport.svg",
+            "tags": [
+                "teleport"
+            ]
+        },
+        {
+            "img": "mechanic.svg",
+            "tags": [
+                "mechanic"
+            ]
+        },
+        {
+            "img": "clairsentience.svg",
+            "tags": [
+                "clairsentience"
+            ]
+        },
+        {
+            "img": "battle-dress.svg",
+            "tags": [
+                "battle",
+                "dress"
+            ]
+        },
+        {
+            "img": "heart-plus.svg",
+            "tags": [
+                "heart",
+                "plus"
+            ]
+        },
+        {
+            "img": "voodoo-doll.svg",
+            "tags": [
+                "voodoo",
+                "doll"
+            ]
+        },
+        {
+            "img": "sense.svg",
+            "tags": [
+                "sense"
+            ]
+        },
+        {
+            "img": "ablat.svg",
+            "tags": [
+                "ablat"
+            ]
+        },
+        {
+            "img": "bookshelf.svg",
+            "tags": [
+                "bookshelf"
+            ]
+        },
+        {
+            "img": "art-visual-media.svg",
+            "tags": [
+                "art",
+                "visual",
+                "media"
+            ]
+        },
+        {
+            "img": "liaison.svg",
+            "tags": [
+                "liaison"
+            ]
+        },
+        {
+            "img": "revolver.svg",
+            "tags": [
+                "revolver"
+            ]
+        },
+        {
+            "img": "spiked-tentacle.svg",
+            "tags": [
+                "spiked",
+                "tentacle"
+            ]
+        },
+        {
+            "img": "plane-pilot.svg",
+            "tags": [
+                "plane",
+                "pilot"
+            ]
+        },
+        {
+            "img": "night-vision.svg",
+            "tags": [
+                "night",
+                "vision"
+            ]
+        },
+        {
+            "img": "tentacle-strike.svg",
+            "tags": [
+                "tentacle",
+                "strike"
+            ]
+        },
+        {
+            "img": "snail.svg",
+            "tags": [
+                "snail"
+            ]
+        },
+        {
+            "img": "knockout.svg",
+            "tags": [
+                "knockout"
+            ]
+        },
+        {
+            "img": "tumor.svg",
+            "tags": [
+                "tumor"
+            ]
+        },
+        {
+            "img": "animals-veterinary-medicine.svg",
+            "tags": [
+                "animals",
+                "veterinary",
+                "medicine"
+            ]
+        },
+        {
+            "img": "steel-skin.svg",
+            "tags": [
+                "steel",
+                "skin"
+            ]
+        },
+        {
+            "img": "halberd.svg",
+            "tags": [
+                "halberd"
+            ]
+        },
+        {
+            "img": "electronics-remote-ops.svg",
+            "tags": [
+                "electronics",
+                "remote",
+                "ops"
+            ]
+        },
+        {
+            "img": "internal-oxygen-tanks.svg",
+            "tags": [
+                "internal",
+                "oxygen",
+                "tanks"
+            ]
+        },
+        {
+            "img": "laser-sight.svg",
+            "tags": [
+                "laser",
+                "sight"
+            ]
+        },
+        {
+            "img": "avoidance.svg",
+            "tags": [
+                "avoidance"
+            ]
+        },
+        {
+            "img": "muscle-up.svg",
+            "tags": [
+                "muscle",
+                "up"
+            ]
+        },
+        {
+            "img": "admin.svg",
+            "tags": [
+                "admin"
+            ]
+        },
+        {
+            "img": "thermometer-hot.svg",
+            "tags": [
+                "thermometer",
+                "hot"
+            ]
+        },
+        {
+            "img": "achilles-heel.svg",
+            "tags": [
+                "achilles",
+                "heel"
+            ]
+        },
+        {
+            "img": "plastron.svg",
+            "tags": [
+                "plastron"
+            ]
+        },
+        {
+            "img": "medallist.svg",
+            "tags": [
+                "medallist"
+            ]
+        },
+        {
+            "img": "prehensile-tail.svg",
+            "tags": [
+                "prehensile",
+                "tail"
+            ]
+        },
+        {
+            "img": "investigate.svg",
+            "tags": [
+                "investigate"
+            ]
+        },
+        {
+            "img": "streetwise.svg",
+            "tags": [
+                "streetwise"
+            ]
+        },
+        {
+            "img": "pirate-skull.svg",
+            "tags": [
+                "pirate",
+                "skull"
+            ]
+        },
+        {
+            "img": "blaster.svg",
+            "tags": [
+                "blaster"
+            ]
+        },
+        {
+            "img": "dodging.svg",
+            "tags": [
+                "dodging"
+            ]
+        },
+        {
+            "img": "watercraft-submarine.svg",
+            "tags": [
+                "watercraft",
+                "submarine"
+            ]
+        },
+        {
+            "img": "lab-coat.svg",
+            "tags": [
+                "lab",
+                "coat"
+            ]
+        },
+        {
+            "img": "kenku-head.svg",
+            "tags": [
+                "kenku",
+                "head"
+            ]
+        },
+        {
+            "img": "discussion.svg",
+            "tags": [
+                "discussion"
+            ]
+        },
+        {
+            "img": "UV-sterilize.svg",
+            "tags": [
+                "UV",
+                "sterilize"
+            ]
+        },
+        {
+            "img": "ancient-ruins.svg",
+            "tags": [
+                "ancient",
+                "ruins"
+            ]
+        },
+        {
+            "img": "technician-card.svg",
+            "tags": [
+                "technician",
+                "card"
+            ]
+        },
+        {
+            "img": "art-performer.svg",
+            "tags": [
+                "art",
+                "performer"
+            ]
+        },
+        {
+            "img": "vehicle-wheeled-vehicle.svg",
+            "tags": [
+                "vehicle",
+                "wheeled",
+                "vehicle"
+            ]
+        },
+        {
+            "img": "acrobatic.svg",
+            "tags": [
+                "acrobatic"
+            ]
+        },
+        {
+            "img": "crowbar.svg",
+            "tags": [
+                "crowbar"
+            ]
+        },
+        {
+            "img": "internal-omnicomp.svg",
+            "tags": [
+                "internal",
+                "omnicomp"
+            ]
+        },
+        {
+            "img": "wolf-trap.svg",
+            "tags": [
+                "wolf",
+                "trap"
+            ]
+        },
+        {
+            "img": "hostile-environment-vacc-suit.svg",
+            "tags": [
+                "hostile",
+                "environment",
+                "vacc",
+                "suit"
+            ]
+        },
+        {
+            "img": "spiked-mace.svg",
+            "tags": [
+                "spiked",
+                "mace"
+            ]
+        },
+        {
+            "img": "xray-goggles.svg",
+            "tags": [
+                "xray",
+                "goggles"
+            ]
+        },
+        {
+            "img": "laser-carbine.svg",
+            "tags": [
+                "laser",
+                "carbine"
+            ]
+        },
+        {
+            "img": "engineering.svg",
+            "tags": [
+                "engineering"
+            ]
+        },
+        {
+            "img": "enhanced-characteristic.svg",
+            "tags": [
+                "enhanced",
+                "characteristic"
+            ]
+        },
+        {
+            "img": "gunnery.svg",
+            "tags": [
+                "gunnery"
+            ]
+        },
+        {
+            "img": "sword-brandish.svg",
+            "tags": [
+                "sword",
+                "brandish"
+            ]
+        },
+        {
+            "img": "data-safe.svg",
+            "tags": [
+                "data",
+                "safe"
+            ]
+        },
+        {
+            "img": "fog.svg",
+            "tags": [
+                "fog"
+            ]
+        },
+        {
+            "img": "science-physical-sciences.svg",
+            "tags": [
+                "science",
+                "physical",
+                "sciences"
+            ]
+        },
+        {
+            "img": "internal-breather.svg",
+            "tags": [
+                "internal",
+                "breather"
+            ]
+        },
+        {
+            "img": "digital-trace.svg",
+            "tags": [
+                "digital",
+                "trace"
+            ]
+        },
+        {
+            "img": "sell-card.svg",
+            "tags": [
+                "sell",
+                "card"
+            ]
+        },
+        {
+            "img": "lightning-tree.svg",
+            "tags": [
+                "lightning",
+                "tree"
+            ]
+        },
+        {
+            "img": "plasma-rifle.svg",
+            "tags": [
+                "plasma",
+                "rifle"
+            ]
+        },
+        {
+            "img": "dozen.svg",
+            "tags": [
+                "dozen"
+            ]
+        },
+        {
+            "img": "melee-combat-bludgeoning-weapons.svg",
+            "tags": [
+                "melee",
+                "combat",
+                "bludgeoning",
+                "weapons"
+            ]
+        },
+        {
+            "img": "advanced-base.svg",
+            "tags": [
+                "advanced",
+                "base"
+            ]
+        },
+        {
+            "img": "weight.svg",
+            "tags": [
+                "weight"
+            ]
+        },
+        {
+            "img": "Broker.svg",
+            "tags": [
+                "Broker"
+            ]
+        },
+        {
+            "img": "desert.svg",
+            "tags": [
+                "desert"
+            ]
+        },
+        {
+            "img": "powered-armor.svg",
+            "tags": [
+                "powered",
+                "armor"
+            ]
+        },
+        {
+            "img": "combat.svg",
+            "tags": [
+                "combat"
+            ]
+        },
+        {
+            "img": "body-balance.svg",
+            "tags": [
+                "body",
+                "balance"
+            ]
+        },
+        {
+            "img": "gun-combat-energy-rifle.svg",
+            "tags": [
+                "gun",
+                "combat",
+                "energy",
+                "rifle"
+            ]
+        },
+        {
+            "img": "vulture.svg",
+            "tags": [
+                "vulture"
+            ]
+        },
+        {
+            "img": "piloting.svg",
+            "tags": [
+                "piloting"
+            ]
+        },
+        {
+            "img": "heavy-weapons-vehicles.svg",
+            "tags": [
+                "heavy",
+                "weapons",
+                "vehicles"
+            ]
+        },
+        {
+            "img": "rocket-thruster.svg",
+            "tags": [
+                "rocket",
+                "thruster"
+            ]
+        },
+        {
+            "img": "bad-breath.svg",
+            "tags": [
+                "bad",
+                "breath"
+            ]
+        },
+        {
+            "img": "enviro-suit-advanced.svg",
+            "tags": [
+                "enviro",
+                "suit",
+                "advanced"
+            ]
+        },
+        {
+            "img": "radiation-counter.svg",
+            "tags": [
+                "radiation",
+                "counter"
+            ]
+        },
+        {
+            "img": "meeple-group.svg",
+            "tags": [
+                "meeple",
+                "group"
+            ]
+        },
+        {
+            "img": "gun-combat-slug-pistol.svg",
+            "tags": [
+                "gun",
+                "combat",
+                "slug",
+                "pistol"
+            ]
+        },
+        {
+            "img": "scorpion-tail.svg",
+            "tags": [
+                "scorpion",
+                "tail"
+            ]
+        },
+        {
+            "img": "heart-minus.svg",
+            "tags": [
+                "heart",
+                "minus"
+            ]
+        },
+        {
+            "img": "hologram-projector.svg",
+            "tags": [
+                "hologram",
+                "projector"
+            ]
+        },
+        {
+            "img": "survival.svg",
+            "tags": [
+                "survival"
+            ]
+        },
+        {
+            "img": "fingernail.svg",
+            "tags": [
+                "fingernail"
+            ]
+        },
+        {
+            "img": "locked-chest.svg",
+            "tags": [
+                "locked",
+                "chest"
+            ]
+        },
+        {
+            "img": "strong-man.svg",
+            "tags": [
+                "strong",
+                "man"
+            ]
+        },
+        {
+            "img": "staff.svg",
+            "tags": [
+                "staff"
+            ]
+        },
+        {
+            "img": "asteroid-F.svg",
+            "tags": [
+                "asteroid",
+                "F"
+            ]
+        },
+        {
+            "img": "id-card.svg",
+            "tags": [
+                "id",
+                "card"
+            ]
+        },
+        {
+            "img": "grenade-launcher.svg",
+            "tags": [
+                "grenade",
+                "launcher"
+            ]
+        },
+        {
+            "img": "bleeding-wound.svg",
+            "tags": [
+                "bleeding",
+                "wound"
+            ]
+        },
+        {
+            "img": "frankenstein-creature.svg",
+            "tags": [
+                "frankenstein",
+                "creature"
+            ]
+        },
+        {
+            "img": "animals-riding.svg",
+            "tags": [
+                "animals",
+                "riding"
+            ]
+        },
+        {
+            "img": "jack.svg",
+            "tags": [
+                "jack"
+            ]
+        },
+        {
+            "img": "flag-objective.svg",
+            "tags": [
+                "flag",
+                "objective"
+            ]
+        },
+        {
+            "img": "scope.svg",
+            "tags": [
+                "scope"
+            ]
+        },
+        {
+            "img": "communicate.svg",
+            "tags": [
+                "communicate"
+            ]
+        },
+        {
+            "img": "StarportD.svg",
+            "tags": [
+                "StarportD"
+            ]
+        },
+        {
+            "img": "metabolic-accelerator.svg",
+            "tags": [
+                "metabolic",
+                "accelerator"
+            ]
+        },
+        {
+            "img": "science-social-sciences.svg",
+            "tags": [
+                "science",
+                "social",
+                "sciences"
+            ]
+        },
+        {
+            "img": "asteroid-C.svg",
+            "tags": [
+                "asteroid",
+                "C"
+            ]
+        },
+        {
+            "img": "jack-plug.svg",
+            "tags": [
+                "jack",
+                "plug"
+            ]
+        },
+        {
+            "img": "assault-rifle.svg",
+            "tags": [
+                "assault",
+                "rifle"
+            ]
+        },
+        {
+            "img": "dart.svg",
+            "tags": [
+                "dart"
+            ]
+        },
+        {
+            "img": "liver.svg",
+            "tags": [
+                "liver"
+            ]
+        },
+        {
+            "img": "stim.svg",
+            "tags": [
+                "stim"
+            ]
+        },
+        {
+            "img": "lightning-shout.svg",
+            "tags": [
+                "lightning",
+                "shout"
+            ]
+        },
+        {
+            "img": "plasma-gun.svg",
+            "tags": [
+                "plasma",
+                "gun"
+            ]
+        },
+        {
+            "img": "suspended-animation.svg",
+            "tags": [
+                "suspended",
+                "animation"
+            ]
+        },
+        {
+            "img": "swamp.svg",
+            "tags": [
+                "swamp"
+            ]
+        },
+        {
+            "img": "arm-sling.svg",
+            "tags": [
+                "arm",
+                "sling"
+            ]
+        },
+        {
+            "img": "teller-mine.svg",
+            "tags": [
+                "teller",
+                "mine"
+            ]
+        },
+        {
+            "img": "gun-combat.svg",
+            "tags": [
+                "gun",
+                "combat"
+            ]
+        },
+        {
+            "img": "dagger.svg",
+            "tags": [
+                "dagger"
+            ]
+        },
+        {
+            "img": "octoman.svg",
+            "tags": [
+                "octoman"
+            ]
+        },
+        {
+            "img": "vacc-suit.svg",
+            "tags": [
+                "vacc",
+                "suit"
+            ]
+        },
+        {
+            "img": "science-xenology.svg",
+            "tags": [
+                "science",
+                "xenology"
+            ]
+        },
+        {
+            "img": "melee-combat-piercing-weapons.svg",
+            "tags": [
+                "melee",
+                "combat",
+                "piercing",
+                "weapons"
+            ]
+        },
+        {
+            "img": "compass.svg",
+            "tags": [
+                "compass"
+            ]
+        },
+        {
+            "img": "pike.svg",
+            "tags": [
+                "pike"
+            ]
+        },
+        {
+            "img": "fusion-generator.svg",
+            "tags": [
+                "fusion",
+                "generator"
+            ]
+        },
+        {
+            "img": "psychic-waves.svg",
+            "tags": [
+                "psychic",
+                "waves"
+            ]
+        },
+        {
+            "img": "pirate-coat.svg",
+            "tags": [
+                "pirate",
+                "coat"
+            ]
+        },
+        {
+            "img": "aircraft.svg",
+            "tags": [
+                "aircraft"
+            ]
+        },
+        {
+            "img": "carbine.svg",
+            "tags": [
+                "carbine"
+            ]
+        },
+        {
+            "img": "organigram.svg",
+            "tags": [
+                "organigram"
+            ]
+        },
+        {
+            "img": "disguise-kit.svg",
+            "tags": [
+                "disguise",
+                "kit"
+            ]
+        },
+        {
+            "img": "alarm-clock.svg",
+            "tags": [
+                "alarm",
+                "clock"
+            ]
+        },
+        {
+            "img": "navigation.svg",
+            "tags": [
+                "navigation"
+            ]
+        },
+        {
+            "img": "FGMP.svg",
+            "tags": [
+                "FGMP"
+            ]
+        },
+        {
+            "img": "receive-money.svg",
+            "tags": [
+                "receive",
+                "money"
+            ]
+        },
+        {
+            "img": "lighter.svg",
+            "tags": [
+                "lighter"
+            ]
+        },
+        {
+            "img": "tactics.svg",
+            "tags": [
+                "tactics"
+            ]
+        },
+        {
+            "img": "hearing-disabled.svg",
+            "tags": [
+                "hearing",
+                "disabled"
+            ]
+        },
+        {
+            "img": "robber.svg",
+            "tags": [
+                "robber"
+            ]
+        },
+        {
+            "img": "gp-machinegun.svg",
+            "tags": [
+                "gp",
+                "machinegun"
+            ]
+        },
+        {
+            "img": "movement-sensor.svg",
+            "tags": [
+                "movement",
+                "sensor"
+            ]
+        },
+        {
+            "img": "evasion.svg",
+            "tags": [
+                "evasion"
+            ]
+        },
+        {
+            "img": "animals.svg",
+            "tags": [
+                "animals"
+            ]
+        },
+        {
+            "img": "shotgun.svg",
+            "tags": [
+                "shotgun"
+            ]
+        },
+        {
+            "img": "riding.svg",
+            "tags": [
+                "riding"
+            ]
+        },
+        {
+            "img": "lockpicks.svg",
+            "tags": [
+                "lockpicks"
+            ]
+        },
+        {
+            "img": "three-friends.svg",
+            "tags": [
+                "three",
+                "friends"
+            ]
+        },
+        {
+            "img": "throwing-ball.svg",
+            "tags": [
+                "throwing",
+                "ball"
+            ]
+        },
+        {
+            "img": "chalk-outline-murder.svg",
+            "tags": [
+                "chalk",
+                "outline",
+                "murder"
+            ]
+        },
+        {
+            "img": "Armor.svg",
+            "tags": [
+                "Armor"
+            ]
+        },
+        {
+            "img": "laser-telescopic.svg",
+            "tags": [
+                "laser",
+                "telescopic"
+            ]
+        },
+        {
+            "img": "wolverine-claws.svg",
+            "tags": [
+                "wolverine",
+                "claws"
+            ]
+        },
+        {
+            "img": "life-tap.svg",
+            "tags": [
+                "life",
+                "tap"
+            ]
+        },
+        {
+            "img": "short-range-communicator.svg",
+            "tags": [
+                "short",
+                "range",
+                "communicator"
+            ]
+        },
+        {
+            "img": "auto-rifle.svg",
+            "tags": [
+                "auto",
+                "rifle"
+            ]
+        },
+        {
+            "img": "shaking-hands.svg",
+            "tags": [
+                "shaking",
+                "hands"
+            ]
+        },
+        {
+            "img": "athletics-strength.svg",
+            "tags": [
+                "athletics",
+                "strength"
+            ]
+        },
+        {
+            "img": "hill-conquest.svg",
+            "tags": [
+                "hill",
+                "conquest"
+            ]
+        },
+        {
+            "img": "blindfold.svg",
+            "tags": [
+                "blindfold"
+            ]
+        },
+        {
+            "img": "scales.svg",
+            "tags": [
+                "scales"
+            ]
+        },
+        {
+            "img": "flyer-airship.svg",
+            "tags": [
+                "flyer",
+                "airship"
+            ]
+        },
+        {
+            "img": "sword.svg",
+            "tags": [
+                "sword"
+            ]
+        },
+        {
+            "img": "swiss-army-knife.svg",
+            "tags": [
+                "swiss",
+                "army",
+                "knife"
+            ]
+        },
+        {
+            "img": "lightning-tear.svg",
+            "tags": [
+                "lightning",
+                "tear"
+            ]
+        },
+        {
+            "img": "bullet-impacts.svg",
+            "tags": [
+                "bullet",
+                "impacts"
+            ]
+        },
+        {
+            "img": "fast-forward.svg",
+            "tags": [
+                "fast",
+                "forward"
+            ]
+        },
+        {
+            "img": "strong-willed.svg",
+            "tags": [
+                "strong",
+                "willed"
+            ]
+        },
+        {
+            "img": "berserker-module.svg",
+            "tags": [
+                "berserker",
+                "module"
+            ]
+        },
+        {
+            "img": "abstract-011.svg",
+            "tags": [
+                "abstract",
+                "011"
+            ]
+        },
+        {
+            "img": "internal-blade.svg",
+            "tags": [
+                "internal",
+                "blade"
+            ]
+        },
+        {
+            "img": "spiky-wing.svg",
+            "tags": [
+                "spiky",
+                "wing"
+            ]
+        },
+        {
+            "img": "snowing.svg",
+            "tags": [
+                "snowing"
+            ]
+        },
+        {
+            "img": "unarmed.svg",
+            "tags": [
+                "unarmed"
+            ]
+        },
+        {
+            "img": "communicator.svg",
+            "tags": [
+                "communicator"
+            ]
+        },
+        {
+            "img": "computers.svg",
+            "tags": [
+                "computers"
+            ]
+        },
+        {
+            "img": "gunner-ortillery.svg",
+            "tags": [
+                "gunner",
+                "ortillery"
+            ]
+        },
+        {
+            "img": "smoke.svg",
+            "tags": [
+                "smoke"
+            ]
+        },
+        {
+            "img": "toolbox.svg",
+            "tags": [
+                "toolbox"
+            ]
+        },
+        {
+            "img": "watercraft.svg",
+            "tags": [
+                "watercraft"
+            ]
+        },
+        {
+            "img": "breaking-chain.svg",
+            "tags": [
+                "breaking",
+                "chain"
+            ]
+        },
+        {
+            "img": "matchbox.svg",
+            "tags": [
+                "matchbox"
+            ]
+        },
+        {
+            "img": "melee-combat-slashing-weapons.svg",
+            "tags": [
+                "melee",
+                "combat",
+                "slashing",
+                "weapons"
+            ]
+        },
+        {
+            "img": "advocate.svg",
+            "tags": [
+                "advocate"
+            ]
+        },
+        {
+            "img": "oil-lamp.svg",
+            "tags": [
+                "oil",
+                "lamp"
+            ]
+        },
+        {
+            "img": "science.svg",
+            "tags": [
+                "science"
+            ]
+        },
+        {
+            "img": "heavy-weapons-man-portable.svg",
+            "tags": [
+                "heavy",
+                "weapons",
+                "man",
+                "portable"
+            ]
+        },
+        {
+            "img": "farming.svg",
+            "tags": [
+                "farming"
+            ]
+        },
+        {
+            "img": "shamrock.svg",
+            "tags": [
+                "shamrock"
+            ]
+        },
+        {
+            "img": "spear.svg",
+            "tags": [
+                "spear"
+            ]
+        },
+        {
+            "img": "lift-1-gram.svg",
+            "tags": [
+                "lift",
+                "1",
+                "gram"
+            ]
+        },
+        {
+            "img": "mod-asimov-inhibitor.svg",
+            "tags": [
+                "mod",
+                "asimov",
+                "inhibitor"
+            ]
+        },
+        {
+            "img": "ultrasound.svg",
+            "tags": [
+                "ultrasound"
+            ]
+        },
+        {
+            "img": "internal-omnicomm.svg",
+            "tags": [
+                "internal",
+                "omnicomm"
+            ]
+        },
+        {
+            "img": "medicinal-slow.svg",
+            "tags": [
+                "medicinal",
+                "slow"
+            ]
+        },
+        {
+            "img": "healing.svg",
+            "tags": [
+                "healing"
+            ]
+        },
+        {
+            "img": "athletics-endurance.svg",
+            "tags": [
+                "athletics",
+                "endurance"
+            ]
+        },
+        {
+            "img": "driving.svg",
+            "tags": [
+                "driving"
+            ]
+        },
+        {
+            "img": "breastplate.svg",
+            "tags": [
+                "breastplate"
+            ]
+        },
+        {
+            "img": "dominate.svg",
+            "tags": [
+                "dominate"
+            ]
+        },
+        {
+            "img": "path-distance.svg",
+            "tags": [
+                "path",
+                "distance"
+            ]
+        },
+        {
+            "img": "brain-dump.svg",
+            "tags": [
+                "brain",
+                "dump"
+            ]
+        },
+        {
+            "img": "charging-bull.svg",
+            "tags": [
+                "charging",
+                "bull"
+            ]
+        },
+        {
+            "img": "pay-money.svg",
+            "tags": [
+                "pay",
+                "money"
+            ]
+        },
+        {
+            "img": "grenade.svg",
+            "tags": [
+                "grenade"
+            ]
+        },
+        {
+            "img": "environmental-protection-suit.svg",
+            "tags": [
+                "environmental",
+                "protection",
+                "suit"
+            ]
+        },
+        {
+            "img": "night-visor.svg",
+            "tags": [
+                "night",
+                "visor"
+            ]
+        },
+        {
+            "img": "health-increase.svg",
+            "tags": [
+                "health",
+                "increase"
+            ]
+        },
+        {
+            "img": "advanced-combat-rifle.svg",
+            "tags": [
+                "advanced",
+                "combat",
+                "rifle"
+            ]
+        },
+        {
+            "img": "magick-trick.svg",
+            "tags": [
+                "magick",
+                "trick"
+            ]
+        },
+        {
+            "img": "seafarer-personal.svg",
+            "tags": [
+                "seafarer",
+                "personal"
+            ]
+        },
+        {
+            "img": "tightrope.svg",
+            "tags": [
+                "tightrope"
+            ]
+        },
+        {
+            "img": "invisible.svg",
+            "tags": [
+                "invisible"
+            ]
+        },
+        {
+            "img": "science-life-sciences.svg",
+            "tags": [
+                "science",
+                "life",
+                "sciences"
+            ]
+        },
+        {
+            "img": "StarportE.svg",
+            "tags": [
+                "StarportE"
+            ]
+        },
+        {
+            "img": "asimov-inhibitor.svg",
+            "tags": [
+                "asimov",
+                "inhibitor"
+            ]
+        },
+        {
+            "img": "regeneration.svg",
+            "tags": [
+                "regeneration"
+            ]
+        },
+        {
+            "img": "leg.svg",
+            "tags": [
+                "leg"
+            ]
+        },
+        {
+            "img": "stun-prod.svg",
+            "tags": [
+                "stun",
+                "prod"
+            ]
+        },
+        {
+            "img": "head-bomb.svg",
+            "tags": [
+                "head",
+                "bomb"
+            ]
+        },
+        {
+            "img": "hooded-figure.svg",
+            "tags": [
+                "hooded",
+                "figure"
+            ]
+        },
+        {
+            "img": "neural-upgrade.svg",
+            "tags": [
+                "neural",
+                "upgrade"
+            ]
+        },
+        {
+            "img": "rope-70m.svg",
+            "tags": [
+                "rope",
+                "70m"
+            ]
+        },
+        {
+            "img": "cargo-crate.svg",
+            "tags": [
+                "cargo",
+                "crate"
+            ]
+        },
+        {
+            "img": "improvised-explosive-device.svg",
+            "tags": [
+                "improvised",
+                "explosive",
+                "device"
+            ]
+        },
+        {
+            "img": "led-flashlight.svg",
+            "tags": [
+                "led",
+                "flashlight"
+            ]
+        },
+        {
+            "img": "flashbang.svg",
+            "tags": [
+                "flashbang"
+            ]
+        },
+        {
+            "img": "vehicle-mole.svg",
+            "tags": [
+                "vehicle",
+                "mole"
+            ]
+        },
+        {
+            "img": "canteen.svg",
+            "tags": [
+                "canteen"
+            ]
+        },
+        {
+            "img": "anagathic.svg",
+            "tags": [
+                "anagathic"
+            ]
+        },
+        {
+            "img": "demolition_explosives.svg",
+            "tags": [
+                "demolition",
+                "explosives"
+            ]
+        },
+        {
+            "img": "electronics.svg",
+            "tags": [
+                "electronics"
+            ]
+        },
+        {
+            "img": "robot-grab.svg",
+            "tags": [
+                "robot",
+                "grab"
+            ]
+        },
+        {
+            "img": "cogsplosion.svg",
+            "tags": [
+                "cogsplosion"
+            ]
+        },
+        {
+            "img": "heart-shield.svg",
+            "tags": [
+                "heart",
+                "shield"
+            ]
+        },
+        {
+            "img": "scout-ship.svg",
+            "tags": [
+                "scout",
+                "ship"
+            ]
+        },
+        {
+            "img": "machete.svg",
+            "tags": [
+                "machete"
+            ]
+        },
+        {
+            "img": "virtual-marker.svg",
+            "tags": [
+                "virtual",
+                "marker"
+            ]
+        },
+        {
+            "img": "medicine-pills.svg",
+            "tags": [
+                "medicine",
+                "pills"
+            ]
+        },
+        {
+            "img": "saber-tooth.svg",
+            "tags": [
+                "saber",
+                "tooth"
+            ]
+        },
+        {
+            "img": "neural-booster.svg",
+            "tags": [
+                "neural",
+                "booster"
+            ]
+        },
+        {
+            "img": "artificial-gill-unit.svg",
+            "tags": [
+                "artificial",
+                "gill",
+                "unit"
+            ]
+        },
+        {
+            "img": "echo-ripples.svg",
+            "tags": [
+                "echo",
+                "ripples"
+            ]
+        },
+        {
+            "img": "advanced-vacc-suit.svg",
+            "tags": [
+                "advanced",
+                "vacc",
+                "suit"
+            ]
+        },
+        {
+            "img": "vehicle-tracked-vehicle.svg",
+            "tags": [
+                "vehicle",
+                "tracked",
+                "vehicle"
+            ]
+        },
+        {
+            "img": "science-robotics.svg",
+            "tags": [
+                "science",
+                "robotics"
+            ]
+        },
+        {
+            "img": "medium-range-communicator.svg",
+            "tags": [
+                "medium",
+                "range",
+                "communicator"
+            ]
+        },
+        {
+            "img": "extra-lucid.svg",
+            "tags": [
+                "extra",
+                "lucid"
+            ]
+        },
+        {
+            "img": "mutant.svg",
+            "tags": [
+                "mutant"
+            ]
+        },
+        {
+            "img": "plastique.svg",
+            "tags": [
+                "plastique"
+            ]
+        },
+        {
+            "img": "sight-disabled.svg",
+            "tags": [
+                "sight",
+                "disabled"
+            ]
+        },
+        {
+            "img": "doctor-face.svg",
+            "tags": [
+                "doctor",
+                "face"
+            ]
+        },
+        {
+            "img": "vibro-blade.svg",
+            "tags": [
+                "vibro",
+                "blade"
+            ]
+        },
+        {
+            "img": "arm.svg",
+            "tags": [
+                "arm"
+            ]
+        },
+        {
+            "img": "psionic-shield-helmet.svg",
+            "tags": [
+                "psionic",
+                "shield",
+                "helmet"
+            ]
+        },
+        {
+            "img": "pre-fabricated-cabin.svg",
+            "tags": [
+                "pre",
+                "fabricated",
+                "cabin"
+            ]
+        },
+        {
+            "img": "tearing.svg",
+            "tags": [
+                "tearing"
+            ]
+        },
+        {
+            "img": "melee.svg",
+            "tags": [
+                "melee"
+            ]
+        },
+        {
+            "img": "thompson-m1.svg",
+            "tags": [
+                "thompson",
+                "m1"
+            ]
+        },
+        {
+            "img": "aircraft-winged.svg",
+            "tags": [
+                "aircraft",
+                "winged"
+            ]
+        },
+        {
+            "img": "hills.svg",
+            "tags": [
+                "hills"
+            ]
+        },
+        {
+            "img": "mesh.svg",
+            "tags": [
+                "mesh"
+            ]
+        },
+        {
+            "img": "leadership.svg",
+            "tags": [
+                "leadership"
+            ]
+        },
+        {
+            "img": "Hide.svg",
+            "tags": [
+                "Hide"
+            ]
+        },
+        {
+            "img": "auto-pistol.svg",
+            "tags": [
+                "auto",
+                "pistol"
+            ]
+        },
+        {
+            "img": "mug-shot.svg",
+            "tags": [
+                "mug",
+                "shot"
+            ]
+        },
+        {
+            "img": "treasure-map.svg",
+            "tags": [
+                "treasure",
+                "map"
+            ]
+        },
+        {
+            "img": "night-blindness.svg",
+            "tags": [
+                "night",
+                "blindness"
+            ]
+        },
+        {
+            "img": "resist-contamination.svg",
+            "tags": [
+                "resist",
+                "contamination"
+            ]
+        },
+        {
+            "img": "suspicious.svg",
+            "tags": [
+                "suspicious"
+            ]
+        },
+        {
+            "img": "backpack.svg",
+            "tags": [
+                "backpack"
+            ]
+        },
+        {
+            "img": "field-gun.svg",
+            "tags": [
+                "field",
+                "gun"
+            ]
+        },
+        {
+            "img": "RAM-grenade-launcher.svg",
+            "tags": [
+                "RAM",
+                "grenade",
+                "launcher"
+            ]
+        },
+        {
+            "img": "headshot.svg",
+            "tags": [
+                "headshot"
+            ]
+        },
+        {
+            "img": "light-assault-gun.svg",
+            "tags": [
+                "light",
+                "assault",
+                "gun"
+            ]
+        },
+        {
+            "img": "medicine.svg",
+            "tags": [
+                "medicine"
+            ]
+        },
+        {
+            "img": "balaclava.svg",
+            "tags": [
+                "balaclava"
+            ]
+        },
+        {
+            "img": "jupiter.svg",
+            "tags": [
+                "jupiter"
+            ]
+        },
+        {
+            "img": "midnight-claw.svg",
+            "tags": [
+                "midnight",
+                "claw"
+            ]
+        },
+        {
+            "img": "watch.svg",
+            "tags": [
+                "watch"
+            ]
+        },
+        {
+            "img": "brain-stem.svg",
+            "tags": [
+                "brain",
+                "stem"
+            ]
+        },
+        {
+            "img": "missile-swarm.svg",
+            "tags": [
+                "missile",
+                "swarm"
+            ]
+        },
+        {
+            "img": "laserburn.svg",
+            "tags": [
+                "laserburn"
+            ]
+        },
+        {
+            "img": "radioactive.svg",
+            "tags": [
+                "radioactive"
+            ]
+        },
+        {
+            "img": "dynamite.svg",
+            "tags": [
+                "dynamite"
+            ]
+        },
+        {
+            "img": "electronics-sensors.svg",
+            "tags": [
+                "electronics",
+                "sensors"
+            ]
+        },
+        {
+            "img": "ringed-beam.svg",
+            "tags": [
+                "ringed",
+                "beam"
+            ]
+        },
+        {
+            "img": "comms.svg",
+            "tags": [
+                "comms"
+            ]
+        },
+        {
+            "img": "perspective-dice-six-faces-random.svg",
+            "tags": [
+                "perspective",
+                "dice",
+                "six",
+                "faces",
+                "random"
+            ]
+        },
+        {
+            "img": "gunnery-spinal-mounts.svg",
+            "tags": [
+                "gunnery",
+                "spinal",
+                "mounts"
+            ]
+        },
+        {
+            "img": "deer-track.svg",
+            "tags": [
+                "deer",
+                "track"
+            ]
+        },
+        {
+            "img": "defense-satellite.svg",
+            "tags": [
+                "defense",
+                "satellite"
+            ]
+        },
+        {
+            "img": "asteroid-D.svg",
+            "tags": [
+                "asteroid",
+                "D"
+            ]
+        },
+        {
+            "img": "six-eyes.svg",
+            "tags": [
+                "six",
+                "eyes"
+            ]
+        },
+        {
+            "img": "medicinal.svg",
+            "tags": [
+                "medicinal"
+            ]
+        },
+        {
+            "img": "laser-burst.svg",
+            "tags": [
+                "laser",
+                "burst"
+            ]
+        },
+        {
+            "img": "weave.svg",
+            "tags": [
+                "weave"
+            ]
+        },
+        {
+            "img": "stunner.svg",
+            "tags": [
+                "stunner"
+            ]
+        },
+        {
+            "img": "hand-computer.svg",
+            "tags": [
+                "hand",
+                "computer"
+            ]
+        },
+        {
+            "img": "transparent-slime.svg",
+            "tags": [
+                "transparent",
+                "slime"
+            ]
+        },
+        {
+            "img": "shield-simple.svg",
+            "tags": [
+                "shield",
+                "simple"
+            ]
+        },
+        {
+            "img": "split-body.svg",
+            "tags": [
+                "split",
+                "body"
+            ]
+        },
+        {
+            "img": "barbed-nails.svg",
+            "tags": [
+                "barbed",
+                "nails"
+            ]
+        },
+        {
+            "img": "support-laser.svg",
+            "tags": [
+                "support",
+                "laser"
+            ]
+        },
+        {
+            "img": "science-chemistry.svg",
+            "tags": [
+                "science",
+                "chemistry"
+            ]
+        },
+        {
+            "img": "lift-1-kg.svg",
+            "tags": [
+                "lift",
+                "1",
+                "kg"
+            ]
+        },
+        {
+            "img": "gun-combat-archaic.svg",
+            "tags": [
+                "gun",
+                "combat",
+                "archaic"
+            ]
+        },
+        {
+            "img": "hand-calculator.svg",
+            "tags": [
+                "hand",
+                "calculator"
+            ]
+        },
+        {
+            "img": "gunnery-turret-weapons.svg",
+            "tags": [
+                "gunnery",
+                "turret",
+                "weapons"
+            ]
+        },
+        {
+            "img": "asteroid-E.svg",
+            "tags": [
+                "asteroid",
+                "E"
+            ]
+        },
+        {
+            "img": "disposable-anti-vehicle-rocket.svg",
+            "tags": [
+                "disposable",
+                "anti",
+                "vehicle",
+                "rocket"
+            ]
+        },
+        {
+            "img": "trumpet.svg",
+            "tags": [
+                "trumpet"
+            ]
+        },
+        {
+            "img": "advanced-cyberarm.svg",
+            "tags": [
+                "advanced",
+                "cyberarm"
+            ]
+        },
+        {
+            "img": "shield.svg",
+            "tags": [
+                "shield"
+            ]
+        },
+        {
+            "img": "impact-point.svg",
+            "tags": [
+                "impact",
+                "point"
+            ]
+        },
+        {
+            "img": "heavy-rain.svg",
+            "tags": [
+                "heavy",
+                "rain"
+            ]
+        },
+        {
+            "img": "Genetics.svg",
+            "tags": [
+                "Genetics"
+            ]
+        },
+        {
+            "img": "rifle.svg",
+            "tags": [
+                "rifle"
+            ]
+        },
+        {
+            "img": "seafarer-sail.svg",
+            "tags": [
+                "seafarer",
+                "sail"
+            ]
+        },
+        {
+            "img": "flyer-wing.svg",
+            "tags": [
+                "flyer",
+                "wing"
+            ]
+        },
+        {
+            "img": "cutlass.svg",
+            "tags": [
+                "cutlass"
+            ]
+        },
+        {
+            "img": "artificial-intelligence.svg",
+            "tags": [
+                "artificial",
+                "intelligence"
+            ]
+        },
+        {
+            "img": "gunnery-screens.svg",
+            "tags": [
+                "gunnery",
+                "screens"
+            ]
+        },
+        {
+            "img": "rock.svg",
+            "tags": [
+                "rock"
+            ]
+        },
+        {
+            "img": "drive-walker.svg",
+            "tags": [
+                "drive",
+                "walker"
+            ]
+        },
+        {
+            "img": "jack-of-all-trades.svg",
+            "tags": [
+                "jack",
+                "of",
+                "all",
+                "trades"
+            ]
+        },
+        {
+            "img": "delivery-drone.svg",
+            "tags": [
+                "delivery",
+                "drone"
+            ]
+        },
+        {
+            "img": "light-intensifier.svg",
+            "tags": [
+                "light",
+                "intensifier"
+            ]
+        },
+        {
+            "img": "dread.svg",
+            "tags": [
+                "dread"
+            ]
+        },
+        {
+            "img": "StarportC.svg",
+            "tags": [
+                "StarportC"
+            ]
+        },
+        {
+            "img": "rocket-launcher.svg",
+            "tags": [
+                "rocket",
+                "launcher"
+            ]
+        },
+        {
+            "img": "athletics-dexterity.svg",
+            "tags": [
+                "athletics",
+                "dexterity"
+            ]
+        },
+        {
+            "img": "art-instrument.svg",
+            "tags": [
+                "art",
+                "instrument"
+            ]
+        },
+        {
+            "img": "oxygen-tanks.svg",
+            "tags": [
+                "oxygen",
+                "tanks"
+            ]
+        },
+        {
+            "img": "microkinesis.svg",
+            "tags": [
+                "microkinesis"
+            ]
+        },
+        {
+            "img": "hidden.svg",
+            "tags": [
+                "hidden"
+            ]
+        },
+        {
+            "img": "scuba-mask.svg",
+            "tags": [
+                "scuba",
+                "mask"
+            ]
+        },
+        {
+            "img": "inertial-locator.svg",
+            "tags": [
+                "inertial",
+                "locator"
+            ]
+        },
+        {
+            "img": "carousing.svg",
+            "tags": [
+                "carousing"
+            ]
+        },
+        {
+            "img": "TDX.svg",
+            "tags": [
+                "TDX"
+            ]
+        },
+        {
+            "img": "omnicomp.svg",
+            "tags": [
+                "omnicomp"
+            ]
+        },
+        {
+            "img": "gun-combat-energy-pistol.svg",
+            "tags": [
+                "gun",
+                "combat",
+                "energy",
+                "pistol"
+            ]
+        },
+        {
+            "img": "chronic-asthma.svg",
+            "tags": [
+                "chronic",
+                "asthma"
+            ]
+        },
+        {
+            "img": "heavy-weapons-artillery.svg",
+            "tags": [
+                "heavy",
+                "weapons",
+                "artillery"
+            ]
+        },
+        {
+            "img": "submachinegun.svg",
+            "tags": [
+                "submachinegun"
+            ]
+        },
+        {
+            "img": "asteroid-X.svg",
+            "tags": [
+                "asteroid",
+                "X"
+            ]
+        },
+        {
+            "img": "vacuum-adaptation.svg",
+            "tags": [
+                "vacuum",
+                "adaptation"
+            ]
+        },
+        {
+            "img": "cyber-eye-advanced.svg",
+            "tags": [
+                "cyber",
+                "eye",
+                "advanced"
+            ]
+        },
+        {
+            "img": "medical-pack.svg",
+            "tags": [
+                "medical",
+                "pack"
+            ]
+        },
+        {
+            "img": "conqueror.svg",
+            "tags": [
+                "conqueror"
+            ]
+        },
+        {
+            "img": "flamethrower.svg",
+            "tags": [
+                "flamethrower"
+            ]
+        },
+        {
+            "img": "cloth.svg",
+            "tags": [
+                "cloth"
+            ]
+        },
+        {
+            "img": "animals-survival.svg",
+            "tags": [
+                "animals",
+                "survival"
+            ]
+        },
+        {
+            "img": "linguistics.svg",
+            "tags": [
+                "linguistics"
+            ]
+        },
+        {
+            "img": "tech-toolkit.svg",
+            "tags": [
+                "tech",
+                "toolkit"
+            ]
+        },
+        {
+            "img": "gun-combat-archery.svg",
+            "tags": [
+                "gun",
+                "combat",
+                "archery"
+            ]
+        },
+        {
+            "img": "incendiary.svg",
+            "tags": [
+                "incendiary"
+            ]
+        },
+        {
+            "img": "pyromaniac.svg",
+            "tags": [
+                "pyromaniac"
+            ]
+        },
+        {
+            "img": "hacker.svg",
+            "tags": [
+                "hacker"
+            ]
+        },
+        {
+            "img": "acid-blob.svg",
+            "tags": [
+                "acid",
+                "blob"
+            ]
+        },
+        {
+            "img": "enrage.svg",
+            "tags": [
+                "enrage"
+            ]
+        },
+        {
+            "img": "ir-goggles.svg",
+            "tags": [
+                "ir",
+                "goggles"
+            ]
+        },
+        {
+            "img": "laser-rifle.svg",
+            "tags": [
+                "laser",
+                "rifle"
+            ]
+        },
+        {
+            "img": "blink.svg",
+            "tags": [
+                "blink"
+            ]
+        }
+    ]
+}

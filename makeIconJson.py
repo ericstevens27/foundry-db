@@ -24,9 +24,12 @@ def main ():
     iconOutputfile = 'icon.json'
     with open(iconFileName, "r", encoding="utf-16") as iconFD:
         for line in iconFD:
-            iconOutput['icons'].append(extractIcon(line))
+            if line == '\n':
+                continue
+            else:
+                iconOutput['icons'].append(extractIcon(line))
     iconOutputFD = open(iconOutputfile, 'w')
-    json.dump(iconOutput, ensure_ascii=True, indent=4, fd=iconOutputFD)
+    json.dump(iconOutput, iconOutputFD, ensure_ascii=True, indent=4)
     return True
 
 if __name__ == "__main__":
